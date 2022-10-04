@@ -1,0 +1,33 @@
+body{
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke ;
+    text-align: center;
+    font-size: x-large;
+}
+#button1{
+    background-color: green; /* Green */
+    border: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+
+}
+#button2{
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+
+}
