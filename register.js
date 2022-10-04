@@ -14,9 +14,4 @@ function validateForm() {
         alert("Your password in not validate");
         return false;
     }
-    else
-    {
-        alert("Welcome to login page");
-    }
-
 }
