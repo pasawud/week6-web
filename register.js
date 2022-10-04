@@ -14,4 +14,7 @@ function validateForm() {
         alert("Your password in not validate");
         return false;
     }
+    else
+    {
+    }
 }
